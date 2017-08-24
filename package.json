@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/yinm/web-design-trace/issues"
   },
-  "homepage": "https://github.com/yinm/web-design-trace#readme"
+  "homepage": "https://github.com/yinm/web-design-trace#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0"
+  }
 }
